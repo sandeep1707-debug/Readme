@@ -65,9 +65,7 @@
   <img src="https://github-readme-stats.vercel.app/api/top-langs/?username=sandeep1707-debug&layout=compact&theme=tokyonight&border_radius=15" width="48%"/>
 </p>
 
-<p align="center">
-  <img src="https://github-readme-streak-stats.herokuapp.com/?user=sandeep1707-debug&theme=tokyonight&hide_border=false" width="70%" />
-</p>
+
 
 ---
 
