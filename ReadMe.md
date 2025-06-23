@@ -1,6 +1,10 @@
-<h1 align="center">
-  <img src="https://readme-typing-svg.demolab.com/?font=Fira+Code&weight=600&size=30&pause=1000&center=true&width=500&lines=Hi+👋+I'm+Sandeep;Full+Stack+%7C+ML+%7C+IoT" alt="Typing SVG" />
-</h1>
+<h1 align="center">Hi 👋, I'm Sandeep</h1>
+<h3 align="center">CSE Student | Full Stack Developer | AI • ML • IoT Explorer</h3>
+
+<p align="center">
+  <img src="https://media.giphy.com/media/qgQUggAC3Pfv687qPC/giphy.gif" width="500" />
+</p>
+
 
 <p align="center">
   <img src="https://github-profile-trophy.vercel.app/?username=sandeep1707-debug&theme=dracula&margin-w=20&margin-h=20&no-frame=true" />
