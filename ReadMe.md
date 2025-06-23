@@ -1,5 +1,10 @@
-<h1 align="center">Hi 👋, I'm Sandeep</h1>
-<h3 align="center">CSE Student | Full Stack Developer | AI • ML • IoT Explorer</h3>
+<p align="center">
+  <img src="https://capsule-render.vercel.app/api?type=waving&color=1fa2ff&height=200&section=header&text=Gundu%20Pradeep&fontSize=40&fontColor=ffffff" />
+</p>
+
+<p align="center">
+  <img src="https://readme-typing-svg.demolab.com?font=Fira+Code&duration=3000&pause=800&color=1fa2ff&center=true&vCenter=true&width=435&lines=Engineering+creativity+into+code;Turning+ideas+into+impact!" alt="Typing Animation" />
+</p>
 
 <p align="center">
   <img src="https://media.giphy.com/media/qgQUggAC3Pfv687qPC/giphy.gif" width="500" />
