@@ -1,7 +1,6 @@
 <h1 align="center">
-  <img src="https://readme-typing-svg.demolab.com/?font=Fira+Code&weight=600&size=30&pause=1000&center=true&width=500&lines=Hi+👋+I'm+Sandeep;FullStack+%7C+ML" alt="Typing SVG" />
+  <img src="https://readme-typing-svg.demolab.com/?font=Fira+Code&weight=600&size=30&pause=1000&center=true&width=500&lines=Hi+👋+I'm+Sandeep;Full+Stack+%7C+ML+%7C+IoT" alt="Typing SVG" />
 </h1>
-
 
 <p align="center">
   <img src="https://github-profile-trophy.vercel.app/?username=sandeep1707-debug&theme=dracula&margin-w=20&margin-h=20&no-frame=true" />
@@ -11,22 +10,24 @@
 
 <h3 align="center">🚀 Passionate | 🎯 Consistent | 💡 Visionary</h3>
 
-- 🎓 CSE @ Vasavi College of Engineering (2nd Year)  
-- 🛠️ Building Real-Time Dashboards & Smart Apps  
-- 🤖 Innovating with AI, ML, IoT, and Full Stack  
-- 📈 Ranked Top 0.5% in India (NCAT)  
-- 💡 SIH 2024 Pre-Finalist  
+<p align="center">
+🎓 2nd Year CSE @ Vasavi College of Engineering  
+🛠️ Building Real-Time Dashboards & Smart Apps  
+🤖 Innovating with AI, ML, IoT, and Full Stack  
+📈 Ranked Top 0.5% in India (NCAT)  
+💡 SIH 2024 Pre-Finalist  
+</p>
 
 ---
 
-<h2 align="center">🌟 Tech Stack</h2>
+<h2 align="center">🧠 Tech Stack</h2>
 <p align="center">
   <img src="https://skillicons.dev/icons?i=c,java,python,js,html,css,react,spring,mysql,postgres,mongodb,git,docker" />
 </p>
 
 ---
 
-<h2 align="center">📌 Featured Projects</h2>
+<h2 align="center">🚀 Featured Projects</h2>
 
 <table align="center">
   <tr>
@@ -53,16 +54,41 @@
 
 ---
 
-<h2 align="center">📈 GitHub Insights</h2>
+<h2 align="center">📊 GitHub Insights</h2>
 
 <p align="center">
   <img src="https://github-readme-stats.vercel.app/api?username=sandeep1707-debug&show_icons=true&theme=tokyonight&border_radius=15" width="48%"/>
   <img src="https://github-readme-stats.vercel.app/api/top-langs/?username=sandeep1707-debug&layout=compact&theme=tokyonight&border_radius=15" width="48%"/>
 </p>
 
+<p align="center">
+  <img src="https://github-readme-streak-stats.herokuapp.com/?user=sandeep1707-debug&theme=tokyonight&hide_border=false" width="70%" />
+</p>
+
+---
+
+<h2 align="center">🏆 Achievements</h2>
+
+<ul>
+  <li>🥈 SIH 2024 – Pre-Finalist</li>
+  <li>🧠 NCAT AIR 178 – Top 0.5% Nationally</li>
+  <li>📚 Internship: AI with Python – E-Cell, IIT Madras</li>
+</ul>
+
+---
+
+<h2 align="center">📜 Certifications</h2>
+
+<ul>
+  <li>✅ Java, Python, Machine Learning – Infosys Springboard</li>
+  <li>✅ Programming in Java – NPTEL</li>
+  <li>✅ DBMS – NPTEL</li>
+</ul>
+
 ---
 
 <h2 align="center">🔗 Connect with Me</h2>
+
 <p align="center">
   <a href="https://linkedin.com/in/gundu-sandeep" target="_blank">
     <img src="https://img.shields.io/badge/LinkedIn-blue?logo=linkedin&style=for-the-badge" />
